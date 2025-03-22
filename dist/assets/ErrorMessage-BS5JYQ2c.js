@@ -1,0 +1,1 @@
+import{j as r,P as s}from"./index-Chad9CLA.js";function t({message:e}){return r.jsx("p",{className:"text-center font-inter mt-2 text-red-500",children:e})}t.propTypes={message:s.string.isRequired};export{t as E};

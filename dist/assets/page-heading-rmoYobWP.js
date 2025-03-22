@@ -1,0 +1,1 @@
+import{j as e,P as s}from"./index-Chad9CLA.js";function r({title:i,description:t}){return e.jsxs("div",{className:"mb-5",children:[e.jsx("h1",{className:"text-xl font-inter font-semibold capitalize",children:i}),e.jsx("p",{className:"text-[#6c757d] text-sm",children:t})]})}r.propTypes={title:s.string.isRequired,description:s.string.isRequired};export{r as H};
